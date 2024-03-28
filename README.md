@@ -11,7 +11,7 @@
 
 [![IDE](https://skillicons.dev/icons?i=vscode,visualstudio,eclipse,xcode&perline=15)](https://skillicons.dev)
 
-[![Bonus](https://skillicons.dev/icons?i=unity,blender&perline=15)](https://skillicons.dev)
+[![Bonus](https://skillicons.dev/icons?i=unity,blender,notion,discord,&perline=15)](https://skillicons.dev)
 
 
 # Repositories
