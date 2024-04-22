@@ -19,6 +19,7 @@
 ![Swift](https://img.shields.io/badge/Swift-F54A2A?logo=swift&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML-%23E34F26.svg?&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS-%231572B6.svg?&logo=css3&logoColor=white)
+![JS](https://img.shields.io/badge/JavaScript-FE7A16.svg?&logo=javascript&logoColor=white)
 
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?&logo=visual-studio-code&logoColor=white)
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?&logo=visual-studio&logoColor=white)
