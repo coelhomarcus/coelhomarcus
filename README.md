@@ -3,7 +3,7 @@
 
 <div align="center">
     <h3>Hi I'm Marcus Coelho.</h3>
-    <img src="https://64.media.tumblr.com/2de8e53e13f0ecb25a64baabea0f10d8/686fe3ab3eec4fd3-8d/s540x810/5ee8de9d80fdf742a93ff7ac1ce6fb08eb4252a8.gif"> 
+    <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExYm5mZGg5bjVoa2wwaXFheTVqN2lpa3Fkdmd4NmY4MG5oNWZvcjBoNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/eWN3KoFveUDPfQUO3m/giphy.webp"> 
 </div>
 
 <!--Skills-->
