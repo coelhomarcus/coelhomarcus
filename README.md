@@ -3,7 +3,7 @@
 
 <div align="center">
     <h3>Hi I'm Marcus Coelho.</h3>
-    <img src="https://media1.tenor.com/m/W9_p03gT5Y4AAAAC/20th-century-boys-20cb.gif"> 
+    <img src="https://github.com/user-attachments/assets/daf07fdd-e08e-4736-a2a5-928569a958d7"> 
 </div>
 
 <!--Skills-->
