@@ -1,10 +1,13 @@
 
 <!--Hi-->
 
+<p>My name is <b>Marcus Coelho</b>, and I have a passion for technology, manga and games. Currently, I am studying Information Systems at UNIFESSPA and am an active member of Exception JR, a Junior Enterprise at the university.</p>
+
+
 <div align="center">
-    <h3>Hi I'm Marcus Coelho.</h3>
     <img src="https://github.com/user-attachments/assets/daf07fdd-e08e-4736-a2a5-928569a958d7"> 
 </div>
+
 
 <!--Skills-->
 
