@@ -12,7 +12,7 @@
 - 📱 Typesetting Language: HTML; CSS;
 
 ### Professional Experience 👨‍💻
-- 🦎 **Exception Jr**: Junior Enterprise at the University of Southern and Southeastern Pará, working as a Full Stack Developer.
+- 🦎 **Exception Jr**: Junior Enterprise at the Federal University of Southern and Southeastern Pará, working as a Full Stack Developer.
 
 
 
