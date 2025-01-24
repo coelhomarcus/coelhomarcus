@@ -1,16 +1,15 @@
-## Hi there 👋
+### Hi there 👋
 
-<!--
-**coelhomarcus/coelhomarcus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 👋 Hi, I'm **_Marcus_**, currently studying Information Systems at **_UNIFESSPA_**.
+- 🌱 I’m currently focused on Web Development.
+- 📫 How to reach me: marcusrangelcoelho@gmail.com
 
-Here are some ideas to get you started:
+### Skills 💻
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🗣️ Natural Language: Portuguese (Native); English (Ongoing);
+- 👨‍💻 Programming Language: Python; C#; Java; Swift; JavaScript (Ongoing);
+- 📱 Typesetting Language: HTML; CSS;
+
+### Professional Experience 👨‍💻
+
+- 🦎 **Exception Jr**: Junior Enterprise at the Federal University of Southern and Southeastern Pará, working as a Full Stack Developer.
