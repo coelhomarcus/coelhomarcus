@@ -12,4 +12,6 @@
 
 ### Professional Experience 👨‍💻
 
-- 🦎 **Exception Jr**: Junior Enterprise at the Federal University of Southern and Southeastern Pará, working as a Full Stack Developer.
+- 🦎 **Exception Jr** (Jul 2024 - Present): Junior Enterprise at the Federal University of Southern and Southeastern Pará, working as a Full Stack Developer.
+
+- 👥 **[Steed](https://github.com/SteedHub)** (Jan 2025 – Present): A startup specializing in website development, where I serve as the Founder and Full Stack Developer.
