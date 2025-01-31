@@ -15,8 +15,3 @@
 - 🦎 **Exception Jr** (Jul 2024 - Present): Junior Enterprise at the Federal University of Southern and Southeastern Pará, working as a Full Stack Developer.
 
 - 👥 **[Steed](https://github.com/SteedHub)** (Jan 2025 – Present): A startup specializing in website development, where I serve as the Founder and Full Stack Developer.
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=coelhomarcus&theme=dark&hide_border=false" height="130" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=coelhomarcus&theme=dark&show_icons=true&hide_border=false&layout=compact" height="130" alt="languages    graph"  />
-</div>
