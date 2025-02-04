@@ -19,9 +19,9 @@
 <details>
 <summary>🐲 stuffs</summary>
 
-![streak](https://github-readme-streak-stats.herokuapp.com/?user=coelhomarcus&theme=github_dark_dimmed&hide_border=false)
+![streak](https://github-readme-streak-stats.herokuapp.com/?user=coelhomarcus&theme=nord&hide_border=true)
 
-![m-lang](https://github-readme-stats.vercel.app/api/top-langs/?username=coelhomarcus&theme=github_dark_dimmed&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![m-lang](https://github-readme-stats.vercel.app/api/top-langs/?username=coelhomarcus&theme=nord&show_icons=true&hide_border=true&layout=compact)
 
 ![v-count](https://komarev.com/ghpvc/?username=coelhomarcus)
 
