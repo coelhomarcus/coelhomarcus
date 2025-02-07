@@ -3,6 +3,7 @@
 - 👋 Hi, I'm **_Marcus_**, currently studying Information Systems at **_UNIFESSPA_**.
 - 🌱 I’m currently focused on Web Development.
 - 📫 How to reach me: marcusrangelcoelho@gmail.com
+- 🐺 Discord: coelhomarcus
 
 ### Skills 💻
 
