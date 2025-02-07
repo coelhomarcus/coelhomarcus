@@ -20,8 +20,8 @@
 <details>
 <summary>🐲 stuffs</summary>
 
-![m-lang](https://github-readme-stats.vercel.app/api/top-langs/?username=coelhomarcus&theme=nord&show_icons=true&hide_border=true&layout=compact)
+- ⌨️ [my monkeytype account](https://monkeytype.com/profile/coelhomarcus)
 
-![v-count](https://komarev.com/ghpvc/?username=coelhomarcus)
+- ![v-count](https://komarev.com/ghpvc/?username=coelhomarcus)
 
 </details>
