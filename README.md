@@ -1,8 +1,9 @@
 ### Hi there 👋
 
-- 👋 Hi, I'm **_Marcus_**, currently studying Information Systems at **_UNIFESSPA_**.
-- 🌱 I’m currently focused on Web Development.
-- 📫 How to reach me: marcusrangelcoelho@gmail.com
+- 👋 Hi, I'm **_Marcus_**
+- 🏫 Information Systems student at **_UNIFESSPA_**, currently in my 5th period.
+- 🌱 Focused on Web Development for now.
+- 📫 Reach me at: marcusrangelcoelho@gmail.com
 - 🐺 Discord: coelhomarcus
 
 ### Skills 💻
