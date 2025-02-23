@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 👋 Hi, I'm **_Marcus_**
+- 👋 I'm **_Marcus Coelho_**
 - 🏫 Information Systems student at **_UNIFESSPA_**, currently in my 5th period.
 - 🌱 Focused on Web Development for now.
 - 📫 Reach me at: marcusrangelcoelho@gmail.com
