@@ -19,11 +19,17 @@
 
 - 🐴 **[Steed](https://github.com/SteedHub)** (Jan 2025 – Present): A startup specializing in website development, where I serve as the Founder and Full Stack Developer.
 
+#
+
 <details>
-<summary>🐲 stuffs</summary>
+<summary>🧳 my stuff</summary>
 
-- ⌨️ [my monkeytype account](https://monkeytype.com/profile/coelhomarcus)
+- ⌨️ [Monkeytype Account](https://monkeytype.com/profile/coelhomarcus)
 
-- ![v-count](https://komarev.com/ghpvc/?username=coelhomarcus)
+- Favorite games: Cyberpunk 2077, Elden Ring, Dark Souls III.
+
+- Favorite manga: Berserk, 20th Century Boys, Chainsaw Man, Death Note.
+  
+- Favorite singer: Enygma.
 
 </details>
