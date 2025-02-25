@@ -22,14 +22,25 @@
 #
 
 <details>
-<summary>🧳 my stuff</summary>
+<summary>🧳 My stuff</summary>
 
-- ⌨️ [Monkeytype Account](https://monkeytype.com/profile/coelhomarcus)
+- 🧑‍💻 My stack: VSCode, WezTerm, Brave, Figma ,Obsidian, Todoist...
 
 - 🎮 Favorite games: Cyberpunk 2077, Elden Ring, Dark Souls III.
 
 - 📙 Favorite manga: Berserk, 20th Century Boys, Chainsaw Man, Death Note.
   
 - 🎸 Favorite singer: Enygma.
+
+- ➕ VSCode Extensions:
+	- Min Theme
+	- Origamid Next (icons only)
+	- ES7+ React/Redux/React-Native snippets
+	- ESLint
+	- GitLens
+	- Live Server
+	- Color Highlight
+
+- ⌨️ [Monkeytype Account](https://monkeytype.com/profile/coelhomarcus)
 
 </details>
