@@ -24,7 +24,7 @@
 <details>
 <summary>🧳 My stuff</summary>
 
-- 🧑‍💻 My stack: VSCode, WezTerm, Brave, Figma ,Obsidian, Todoist...
+- 🧑‍💻 My stack: VSCode, Warp, Brave, Figma ,Obsidian, Todoist...
 
 - 🎮 Favorite games: Cyberpunk 2077, Elden Ring, Dark Souls III.
 
