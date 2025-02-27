@@ -34,12 +34,13 @@
 
 - ➕ VSCode Extensions:
 	- Min Theme
-	- Origamid Next (icons only)
-	- ES7+ React/Redux/React-Native snippets
+	- Symbols
+	- Auto Rename Tag
 	- ESLint
 	- GitLens
 	- Live Server
 	- Color Highlight
+   	- ES7+ React/Redux/React-Native snippets
 
 - ⌨️ [Monkeytype Account](https://monkeytype.com/profile/coelhomarcus)
 
