@@ -33,7 +33,7 @@
 - 🎸 Favorite singer: Enygma.
 
 - ➕ VSCode Extensions:
-	- Min Theme
+	- Min Theme || Vesper
 	- Symbols
 	- Auto Rename Tag
 	- ESLint
