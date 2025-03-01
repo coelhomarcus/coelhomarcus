@@ -19,21 +19,6 @@
 
 - 🐴 **[Steed](https://github.com/SteedHub)** (Jan 2025 – Present): A startup specializing in website development, where I serve as the Founder and Full Stack Developer.
 
-#
-
-<details>
-<summary>🧳 My stuff</summary>
-
-- 🎮 Favorite games: Cyberpunk 2077, Elden Ring, Dark Souls III.
-
-- 📙 Favorite manga: Berserk, 20th Century Boys, Chainsaw Man, Death Note.
-  
-- 🎸 Favorite singer: Enygma.
-
-- ⌨️ [Monkeytype Account](https://monkeytype.com/profile/coelhomarcus)
-
-</details>
-
 #  
 
 <details>
@@ -54,5 +39,20 @@
 	- Live Server
 	- Color Highlight
    	- ES7+ React/Redux/React-Native snippets
+
+</details>
+
+#
+
+<details>
+<summary>🧳 My stuff</summary>
+
+- 🎮 Favorite games: Cyberpunk 2077, Elden Ring, Dark Souls III.
+
+- 📙 Favorite manga: Berserk, 20th Century Boys, Chainsaw Man, Death Note.
+  
+- 🎸 Favorite singer: Enygma.
+
+- ⌨️ [Monkeytype Account](https://monkeytype.com/profile/coelhomarcus)
 
 </details>
