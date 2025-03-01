@@ -24,24 +24,35 @@
 <details>
 <summary>🧳 My stuff</summary>
 
-- 🧑‍💻 My stack: VSCode, Warp, Brave, Figma , Todoist...
-
 - 🎮 Favorite games: Cyberpunk 2077, Elden Ring, Dark Souls III.
 
 - 📙 Favorite manga: Berserk, 20th Century Boys, Chainsaw Man, Death Note.
   
 - 🎸 Favorite singer: Enygma.
 
+- ⌨️ [Monkeytype Account](https://monkeytype.com/profile/coelhomarcus)
+
+</details>
+
+#  
+
+<details>
+<summary>💻 My stack</summary>
+
+- ⚙️ IDE: VS Code, Sublime Text
+
+- 🛠️ Tools: Cmder, Figma
+
+- 🔗 Others: Todoist, Discord, Brave 
+
 - ➕ VSCode Extensions:
-	- Min Theme || Vesper
-	- Symbols
+	- Themes: Vesper, Min Theme, Aura Theme
+	- Icon Theme: Symbols
 	- Auto Rename Tag
 	- ESLint
 	- GitLens
 	- Live Server
 	- Color Highlight
    	- ES7+ React/Redux/React-Native snippets
-
-- ⌨️ [Monkeytype Account](https://monkeytype.com/profile/coelhomarcus)
 
 </details>
