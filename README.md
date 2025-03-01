@@ -49,7 +49,7 @@
 
 - 🎮 Favorite games: Cyberpunk 2077, Elden Ring, Dark Souls III.
 
-- 📙 Favorite manga: Berserk, 20th Century Boys, Chainsaw Man, Death Note.
+- 📙 Favorite manga/anime: Kaiji, Berserk, 20th Century Boys, Chainsaw Man, Death Note.
   
 - 🎸 Favorite singer: Enygma.
 
