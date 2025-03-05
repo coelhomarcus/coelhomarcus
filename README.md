@@ -5,7 +5,7 @@
 - 🌱 Focused on Web Development for now.
 - 📫 Reach me at: marcusrangelcoelho@gmail.com
 - 🐺 Discord: coelhomarcus
-- 📃 Portfolio: https://coelhomarcus.com
+- 📃 Portfolio: https://coelhomarcus.com (WIP)
 
 ### Skills 💻
 
