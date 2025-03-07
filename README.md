@@ -5,14 +5,14 @@
 - 🌱 Focused on Web Development for now.
 - 📫 Reach me at: marcusrangelcoelho@gmail.com
 - 🐺 Discord: coelhomarcus
-- 📃 Portfolio: https://coelhomarcus.com (WIP)
+- 📃 Portfolio: https://coelhomarcus.com
 
 ### Skills 💻
 
 - 🗣️ Natural Language: Portuguese (Native); English (Ongoing);
-- 👨‍💻 Programming Language: Python; C#; Java; Swift; JavaScript;
+- 👨‍💻 Programming Language: Python; C#; Java; Swift; JavaScript, TypeScript (Ongoing);
 - 📱 Typesetting Language: HTML; CSS;
-- 🛠 Frameworks & Libraries: React (Ongoing);
+- 🛠 Frameworks & Libraries: React;
 
 ### Professional Experience 👨‍💻
 
