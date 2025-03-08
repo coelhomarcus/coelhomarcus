@@ -41,6 +41,9 @@
 	- Color Highlight
    	- ES7+ React/Redux/React-Native snippets
 
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=coelhomarcus&theme=holi-theme&hide_border=true&border_radius=20)](https://coelhomarcus.com)
+
 </details>
 
 #
