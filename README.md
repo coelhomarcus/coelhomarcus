@@ -12,7 +12,7 @@
 - 🗣️ Natural Language: Portuguese (Native); English (Ongoing);
 - 👨‍💻 Programming Language: Python; C#; Java; Swift; JavaScript, TypeScript (Ongoing);
 - 📱 Typesetting Language: HTML; CSS;
-- 🛠 Frameworks & Libraries: React;
+- 🛠 Frameworks & Libraries: React, Tailwind;
 
 ### Professional Experience 👨‍💻
 
