@@ -9,6 +9,7 @@
 
 ### Skills 💻
 
+- 🧳 Main Stack: HTML, CSS, React, JavaScript, TypeScript.
 - 🗣️ Natural Language: Portuguese (Native); English (Ongoing);
 - 👨‍💻 Programming Language: Python; C#; Java; Swift; JavaScript, TypeScript;
 - 📱 Typesetting Language: HTML; CSS;
