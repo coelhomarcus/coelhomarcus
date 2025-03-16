@@ -10,7 +10,7 @@
 ### Skills 💻
 
 - 🗣️ Natural Language: Portuguese (Native); English (Ongoing);
-- 👨‍💻 Programming Language: Python; C#; Java; Swift; JavaScript, TypeScript (Ongoing);
+- 👨‍💻 Programming Language: Python; C#; Java; Swift; JavaScript, TypeScript;
 - 📱 Typesetting Language: HTML; CSS;
 - 🛠 Frameworks & Libraries: React, Tailwind;
 
