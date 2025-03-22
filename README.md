@@ -26,21 +26,11 @@
 <details>
 <summary>💻 My stack</summary>
 
-- ⚙️ IDE: VS Code, Sublime Text
-
-- 🛠️ Tools: Cmder, Figma
-
-- 🔗 Others: Todoist, Discord, Brave 
-
 - ➕ VSCode Extensions:
-	- Themes: Vesper, Min Theme, Aura Theme
+	- Themes: BakaNeo
 	- Icon Theme: Symbols
-	- Auto Rename Tag
-	- ESLint
-	- GitLens
-	- Live Server
-	- Color Highlight
-   	- ES7+ React/Redux/React-Native snippets
+
+- 📃 More details at https://coelhomarcus.com
 
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=coelhomarcus&theme=holi-theme&hide_border=true&border_radius=20)](https://coelhomarcus.com)
