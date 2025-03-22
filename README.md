@@ -37,17 +37,4 @@
 
 </details>
 
-#
-
-<details>
-<summary>🧳 My stuff</summary>
-
-- 🎮 Favorite games: Cyberpunk 2077, Elden Ring, Dark Souls III.
-
-- 📙 Favorite manga/anime: Kaiji, Berserk, 20th Century Boys, Chainsaw Man, Death Note.
-  
-- 🎸 Favorite singer: Enygma.
-
-- ⌨️ [Monkeytype Account](https://monkeytype.com/profile/coelhomarcus)
-
-</details>
+ #
