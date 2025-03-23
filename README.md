@@ -15,9 +15,9 @@
 - 👨‍💻 Linguagens de Programação: Python; C#; Java; Swift; JavaScript, TypeScript;
 - 📱 Linguagens de Tipagem: HTML; CSS;
 - 🛠 Frameworks & Bibliotecas: React, Tailwind;
-- 🗣️ Linguas: Portuguese (Nativo); English (Estudando);
+- 🗣️ Linguas: Português (Nativo); Inglês (Estudando);
 
-## Experiencia Profissional 👨‍💻
+## Experiência Profissional 👨‍💻
 
 - 🦎 **Exception Jr** (Jul 2024 - momento): Empresa Junior da Universidade do Sul e Sudeste do Pará, onde atuo como Desenvolvedor Full Stack.
 
