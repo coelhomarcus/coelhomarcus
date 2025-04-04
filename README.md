@@ -1,11 +1,10 @@
 ## Olá! 🙋🏻‍♂️
 
 👋 Sou **_Marcus Coelho_**<br>
+📃 Portfolio: https://coelhomarcus.com<br>
 🏫 Cursando Sistemas de Informação na UNIFESSPA - 5/8<br>
 📫 Fale comigo: marcusrangelcoelho@gmail.com<br>
 🐺 Discord: coelhomarcus<br>
-📃 Portfolio: https://coelhomarcus.com<br>
-
 🌱 Atualmente estou focado em front-end, mas quero ir além e explorar outras áreas do desenvolvimento.
 
 # Skills 💻
