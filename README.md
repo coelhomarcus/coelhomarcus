@@ -5,7 +5,7 @@
 🏫 Cursando Sistemas de Informação na UNIFESSPA - 5/8<br>
 📫 Fale comigo: marcusrangelcoelho@gmail.com<br>
 🐺 Discord: coelhomarcus<br>
-🌱 Atualmente estou focado em front-end, mas quero ir além e explorar outras áreas do desenvolvimento.
+🌱 Atualmente estou focado em web, mas quero ir além e explorar outras áreas de desenvolvimento.
 
 # Skills 💻
 
