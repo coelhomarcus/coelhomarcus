@@ -18,8 +18,6 @@
 
 🦎 **Exception Jr** (Jul 2024 - momento): Empresa Junior da Universidade do Sul e Sudeste do Pará, onde atuo como Desenvolvedor Full Stack.<br>
 
-🐴 **[Steed](https://github.com/SteedHub)** (Jan 2025 – momento): Uma startup especializada em desenvolvimento e soluções web onde sou fundador e desenvolvedor.<br>
-
 #
 
 <details>
