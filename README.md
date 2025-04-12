@@ -10,7 +10,7 @@
 # Skills 💻
 
 🖼️ Front-end: React, Javascript, Typescript, Tailwind, HTML, CSS, Vite<br>
-💻 Back-end: Node.js, Express<br>
+💻 Back-end: Node.js, Express, PostgreSQL<br>
 🔗 Outros: C# (Unity), Swift<br>
 🗣️ Linguas: Português (Nativo), Inglês (Estudando)<br>
 
