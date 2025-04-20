@@ -16,7 +16,7 @@
 
 ## Experiência Profissional 👨‍💻
 
-🦎 **Exception Jr** (Jul 2024 - momento): Empresa Junior da Universidade do Sul e Sudeste do Pará, onde atuo como Desenvolvedor Full Stack.<br>
+🦎 **Exception Jr** (Jul 2024 - momento): Empresa Junior da UNIFESSPA, onde atuo como Desenvolvedor Full Stack.<br>
 
 #
 
