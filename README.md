@@ -1,4 +1,4 @@
-## <img src="https://i.pinimg.com/originals/8d/1f/aa/8d1faad39233f188b8ddf7b9d5da126f.gif" style="max-width: 90px">
+## <img src="https://i.pinimg.com/originals/8d/1f/aa/8d1faad39233f188b8ddf7b9d5da126f.gif" width="100">
 
 👋 **_Marcus Coelho_**<br/>
 📃 https://coelhomarcus.com<br/>
