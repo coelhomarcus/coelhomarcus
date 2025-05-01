@@ -1,5 +1,3 @@
-## <img src="https://i.pinimg.com/originals/38/8a/d4/388ad4ccf4138168e53cf7e8810876e9.gif" width="100">
-
 ⚙️ **Marcus Coelho**<br/>
 📃 <a href="https://coelhomarcus.com">coelhomarcus.com</a><br/>
 🏫 Sistemas de Informação - UNIFESSPA - 5/8<br/>
