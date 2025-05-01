@@ -25,7 +25,7 @@
 <img alt="SQLite" src="https://img.shields.io/badge/-SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" />
 </p>
 
-[[coelhomarcus](https://komarev.com/ghpvc/?username=coelhomarcus&color=grey&style=plastic)](https://coelhomarcus.com)
+<a href="https://coelhomarcus.com"><img alt="Profile Views" src="https://komarev.com/ghpvc/?username=coelhomarcus&color=grey&style=plastic"/></a>
 
 **Experiência Profissional**
 
