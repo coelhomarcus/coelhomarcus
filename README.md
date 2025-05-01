@@ -34,11 +34,11 @@
 <details>
 <summary>Extras</summary>
 
-📃 Veja meu blog: <a href="https://coelhomarcus.com/blog" target="_blank">coelhomarcus.com/blog</a> 
+📃 Veja meu blog: [coelhomarcus.com/blog](https://coelhomarcus.com/blog)
 
-💭 <a href="https://cafuntalk.com" target="_blank">CafunTalk</a> - Chat Simples. Rápido. Sem histórico. 
+💭 [CafunTalk](https://cafuntalk.com) - Chat Simples. Rápido. Sem histórico.
 
-🖼️ <a href="https://marketplace.visualstudio.com/items?itemName=coelhomarcus.bakaneo" target="_blank">BakaNeo</a> - Melhor Tema do VSCODE de todos os tempos 
+🖼️ [BakaNeo](https://marketplace.visualstudio.com/items?itemName=coelhomarcus.bakane) - Melhor Tema do VSCODE de todos os tempos 
 
 
 **Meu Ambiente**
