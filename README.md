@@ -38,7 +38,7 @@
 🖼️ [BakaNeo](https://marketplace.visualstudio.com/items?itemName=coelhomarcus.bakane) - Melhor Tema do VSCODE de todos os tempos 
 
 
-**Meu Ambiente**
+**Ambiente**
 <p>
 <img alt="macOS" src="https://img.shields.io/badge/-macOS-333?style=plastic&logo=apple&logoColor=white" />
 <img alt="vscode" src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=plastic&logo=visual-studio-code&logoColor=white" />
