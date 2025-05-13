@@ -2,6 +2,8 @@
 📃 <a href="https://coelhomarcus.com">coelhomarcus.com</a><br/>
 🏫 Sistemas de Informação - UNIFESSPA - 5/8<br/>
 📫 marcusrangelcoelho@gmail.com<br/>
+📋 <a href="https://docs.google.com/document/d/1wgOhwh-1YT-LRog9j1tvxzBVKfraoSzps1AiBGuSx9A/export?format=pdf" download>Currículo</a><br/>
+
 
 **Skills**
 <p>
