@@ -1,4 +1,4 @@
-⚙️ **Marcus Coelho**<br/>
+🐇 **Marcus Coelho**<br/>
 📃 <a href="https://coelhomarcus.com">coelhomarcus.com</a><br/>
 🏫 Sistemas de Informação - UNIFESSPA - 5/8<br/>
 📫 marcusrangelcoelho@gmail.com<br/>
