@@ -1,10 +1,11 @@
-🐇 **Marcus Coelho**<br/>
+### **Marcus Coelho**
+
 📃 <a href="https://coelhomarcus.com">coelhomarcus.com</a><br/>
 🏫 Sistemas de Informação - UNIFESSPA - 5/8<br/>
 📫 marcusrangelcoelho@gmail.com<br/>
 📋 <a href="https://docs.google.com/document/d/1wgOhwh-1YT-LRog9j1tvxzBVKfraoSzps1AiBGuSx9A/export?format=pdf" download>Currículo</a><br/>
 
-**Skills**
+### **Skills**
 
 <p>
 <img alt="html5" src="https://img.shields.io/badge/-HTML-E34F26?style=plastic&logo=html5&logoColor=white" />
@@ -24,14 +25,15 @@
 <img alt="SQLite" src="https://img.shields.io/badge/-SQLite-003B57?style=plastic&logo=sqlite&logoColor=white" />
 </p>
 
-**Experiência Profissional**
+### **Experiência Profissional**
 
 🦎 **Exception Jr** (Jul 2024 - momento): Empresa Junior da UNIFESSPA, atuo como Desenvolvedor Full Stack.<br/>
 
 #
 
 <details>
-<summary>Extras</summary>
+<summary>📂 Extras</summary>
+<br/>
 
 📃 Veja meu blog: [coelhomarcus.com/blog](https://coelhomarcus.com/blog)
 
