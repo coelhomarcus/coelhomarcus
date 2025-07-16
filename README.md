@@ -4,11 +4,11 @@
 📫 marcusrangelcoelho@gmail.com<br/>
 📋 <a href="https://docs.google.com/document/d/1wgOhwh-1YT-LRog9j1tvxzBVKfraoSzps1AiBGuSx9A/export?format=pdf" download>Currículo</a><br/>
 
-
 **Skills**
+
 <p>
 <img alt="html5" src="https://img.shields.io/badge/-HTML-E34F26?style=plastic&logo=html5&logoColor=white" />
-<img alt="CSS3" src="https://img.shields.io/badge/-CSS-1572B6?style=plastic&logo=css3&logoColor=white" />
+<img alt="CSS3" src="https://img.shields.io/badge/-CSS-1572B6?style=plastic&logo=css&logoColor=white" />
 <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-dba740?style=plastic&logo=javascript&logoColor=white" />
 <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=plastic&logo=typescript&logoColor=white" />
 <img alt="TailwindCSS" src="https://img.shields.io/badge/-Tailwind-50B3D0?style=plastic&logo=tailwindcss&logoColor=white" />
@@ -37,20 +37,22 @@
 
 💭 [CafunTalk](https://cafuntalk.com) - Chat Simples. Rápido. Sem histórico.
 
-🖼️ [BakaNeo](https://marketplace.visualstudio.com/items?itemName=coelhomarcus.bakane) - Melhor Tema do VSCODE de todos os tempos 
+🖼️ [BakaNeo](https://marketplace.visualstudio.com/items?itemName=coelhomarcus.bakane) - Melhor Tema do VSCODE de todos os tempos
 
+**Outros**
 
-**Ambiente**
 <p>
 <img alt="macOS" src="https://img.shields.io/badge/-macOS-333?style=plastic&logo=apple&logoColor=white" />
 <img alt="vscode" src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=plastic&logo=visual-studio-code&logoColor=white" />
 <img alt="Insomnia" src="https://img.shields.io/badge/-Insomnia-4000BF?style=plastic&logo=insomnia&logoColor=white" />
+<img alt="Vercel" src="https://img.shields.io/badge/-Vercel-000000?style=plastic&logo=vercel&logoColor=white" />
+<img alt="Figma" src="https://img.shields.io/badge/-Figma-F24E1E?style=plastic&logo=figma&logoColor=white" />
 <img alt="Raycast" src="https://img.shields.io/badge/-Raycast-FF6363?style=plastic&logo=raycast&logoColor=white" />
 <img alt="Todoist" src="https://img.shields.io/badge/-Todoist-E44332?style=plastic&logo=todoist&logoColor=white" />
 <img alt="Notion" src="https://img.shields.io/badge/-Notion-000000?style=plastic&logo=notion&logoColor=white" />
 <img alt="FileZilla" src="https://img.shields.io/badge/-FileZilla-BF0000?style=plastic&logo=filezilla&logoColor=white" />
-<img alt="Vercel" src="https://img.shields.io/badge/-Vercel-000000?style=plastic&logo=vercel&logoColor=white" />
-<img alt="Figma" src="https://img.shields.io/badge/-Figma-F24E1E?style=plastic&logo=figma&logoColor=white" />
+<img alt="unity" src="https://img.shields.io/badge/Unity-000000?style=plastic&logo=unity&logoColor=white" />
+<img alt="godot" src="https://img.shields.io/badge/Godot-478CBF?style=plastic&logo=godot-engine&logoColor=white" />
 </p>
 
 </details>
