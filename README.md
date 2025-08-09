@@ -4,6 +4,8 @@
 🏫 Sistemas de Informação - UNIFESSPA - 6/8<br/>
 📫 marcusrangelcoelho@gmail.com<br/>
 📋 <a href="https://docs.google.com/document/d/1wgOhwh-1YT-LRog9j1tvxzBVKfraoSzps1AiBGuSx9A/export?format=pdf" download>Currículo</a><br/>
+<br/>
+🐙 <a href="https://github.com/submarcus?tab=repositories" download>github/submarcus</a> - minha conta secundária<br/>
 
 ### **Skills**
 
