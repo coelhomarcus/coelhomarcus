@@ -3,9 +3,15 @@
 📃 <a href="https://coelhomarcus.com">coelhomarcus.com</a><br/>
 🏫 Sistemas de Informação - UNIFESSPA - 6/8<br/>
 📫 marcusrangelcoelho@gmail.com<br/>
-📋 <a href="https://docs.google.com/document/d/1wgOhwh-1YT-LRog9j1tvxzBVKfraoSzps1AiBGuSx9A/export?format=pdf" download>Currículo</a><br/>
+📋 <a href="https://docs.google.com/document/d/1wgOhwh-1YT-LRog9j1tvxzBVKfraoSzps1AiBGuSx9A/export?format=pdf" download>Curriculum (PT-BR)</a><br/>
 <br/>
-🐙 <a href="https://github.com/submarcus?tab=repositories" download>github/submarcus</a> - minha conta secundária<br/>
+🐙 <a href="https://github.com/submarcus?tab=repositories" download>github/submarcus</a> - my alt account<br/>
+
+### **Works**
+
+🩺 **PET-SAÚDE / I&SD: Inovação e Saúde Digital no SUS** (Jul 2025 - Present)
+<br/><br/>
+🦎 **Exception Jr** (Jul 2024 - Present): Empresa Junior UNIFESSPA, atuo como Desenvolvedor Full Stack<br/>
 
 ### **Skills**
 
@@ -27,23 +33,19 @@
 <img alt="SQLite" src="https://img.shields.io/badge/-SQLite-003B57?style=plastic&logo=sqlite&logoColor=white" />
 </p>
 
-### **Experiência Profissional**
-
-🦎 **Exception Jr** (Jul 2024 - momento): Empresa Junior da UNIFESSPA, atuo como Desenvolvedor Full Stack.<br/>
-
 #
 
 <details>
 <summary>📂 Extras</summary>
 <br/>
 
-📃 Veja meu blog: [coelhomarcus.com/blog](https://coelhomarcus.com/blog)
+💭 [CafunTalk](https://cafuntalk.com) - Simple. Fast. History-free chat.
 
-💭 [CafunTalk](https://cafuntalk.com) - Chat Simples. Rápido. Sem histórico.
+🖼️ [BakaNeo](https://marketplace.visualstudio.com/items?itemName=coelhomarcus.bakane) - The greatest VSCode theme ever!
 
-🖼️ [BakaNeo](https://marketplace.visualstudio.com/items?itemName=coelhomarcus.bakane) - Melhor Tema do VSCODE de todos os tempos
+📃 My blog: [coelhomarcus.com/blog](https://coelhomarcus.com/blog) (PT-BR)
 
-**Outros**
+**Others**
 
 <p>
 <img alt="macOS" src="https://img.shields.io/badge/-macOS-333?style=plastic&logo=apple&logoColor=white" />
