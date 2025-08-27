@@ -1,7 +1,7 @@
 ### **Marcus Coelho**
 
 📃 <a href="https://coelhomarcus.com">coelhomarcus.com</a><br/>
-🏫 Sistemas de Informação - UNIFESSPA - 6/8<br/>
+🏫 Sistemas de Informação - 6/8 - UNIFESSPA<br/>
 📫 marcusrangelcoelho@gmail.com<br/>
 📋 <a href="https://docs.google.com/document/d/1wgOhwh-1YT-LRog9j1tvxzBVKfraoSzps1AiBGuSx9A/export?format=pdf" download>Curriculum (PT-BR)</a><br/>
 <br/>
@@ -10,7 +10,7 @@
 ### **Works**
 
 🩺 **PET-SAÚDE / I&SD: Inovação e Saúde Digital no SUS** (Jul 2025 - Present)
-<br/><br/>
+<br/>
 🦎 **Exception Jr** (Jul 2024 - Present): Empresa Junior UNIFESSPA, atuo como Desenvolvedor Full Stack<br/>
 
 ### **Skills**
