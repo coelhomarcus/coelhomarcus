@@ -5,7 +5,7 @@
 📫 marcusrangelcoelho@gmail.com<br/>
 📋 <a href="https://docs.google.com/document/d/1wgOhwh-1YT-LRog9j1tvxzBVKfraoSzps1AiBGuSx9A/export?format=pdf" download>Curriculum (PT-BR)</a><br/>
 <br/>
-🐙 <a href="https://github.com/submarcus?tab=repositories" download>github/submarcus</a> - my alt account<br/>
+🦦 <a href="https://github.com/submarcus?tab=repositories" download>github/submarcus</a> - my alt account<br/>
 
 ### **Works**
 
