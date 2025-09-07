@@ -41,7 +41,7 @@
 
 💭 [CafunTalk](https://cafuntalk.com) - Simple. Fast. History-free chat.
 
-🖼️ [BakaNeo](https://marketplace.visualstudio.com/items?itemName=coelhomarcus.bakane) - The greatest VSCode theme ever!
+🖼️ [BakaNeo](https://marketplace.visualstudio.com/items?itemName=coelhomarcus.bakaneo) - The greatest VSCode theme ever!
 
 📃 My blog: [coelhomarcus.com/blog](https://coelhomarcus.com/blog) (PT-BR)
 
