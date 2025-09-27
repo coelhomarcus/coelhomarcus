@@ -5,13 +5,14 @@
 📫 marcusrangelcoelho@gmail.com<br/>
 📋 <a href="https://docs.google.com/document/d/1wgOhwh-1YT-LRog9j1tvxzBVKfraoSzps1AiBGuSx9A/export?format=pdf" download>Curriculum (PT-BR)</a><br/>
 <br/>
-🦦 <a href="https://github.com/submarcus?tab=repositories" download>github/submarcus</a> - my alt account<br/>
+🦦 <a href="https://github.com/submarcus?tab=repositories" download>github/submarcus</a> | alt account<br/>
 
 ### **Works**
 
-🩺 **PET-SAÚDE: Inovação e Saúde Digital no SUS** (Jul 2025 - Present)
+🩺 **PET-SAÚDE: Inovação e Saúde Digital no SUS** (Jul 2025 - Present) | Developer
 <br/>
-🦎 **Exception Jr** (Jul 2024 - Present): Empresa Junior UNIFESSPA, atuo como Desenvolvedor Full Stack<br/>
+🦎 **Exception Jr** (Jul 2024 - Present) | Full Stack Developer
+<br/>
 
 ### **Skills**
 
