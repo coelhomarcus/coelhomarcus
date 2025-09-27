@@ -1,7 +1,7 @@
 ### **Marcus Coelho**
 
 📃 <a href="https://coelhomarcus.com">coelhomarcus.com</a><br/>
-🏫 Sistemas de Informação - 6/8 - UNIFESSPA<br/>
+🏫 Sistemas de Informação | 6/8 | UNIFESSPA<br/>
 📫 marcusrangelcoelho@gmail.com<br/>
 📋 <a href="https://docs.google.com/document/d/1wgOhwh-1YT-LRog9j1tvxzBVKfraoSzps1AiBGuSx9A/export?format=pdf" download>Curriculum (PT-BR)</a><br/>
 <br/>
@@ -37,11 +37,11 @@
 <summary>📂 Extras</summary>
 <br/>
 
-💭 [CafunTalk](https://cafuntalk.com) - Simple. Fast. History-free chat.
+💭 [CafunTalk](https://cafuntalk.com) | Simple. Fast. History-free chat.
 
-🖼️ [BakaNeo](https://marketplace.visualstudio.com/items?itemName=coelhomarcus.bakaneo) - The greatest VSCode theme ever!
+🖼️ [BakaNeo](https://marketplace.visualstudio.com/items?itemName=coelhomarcus.bakaneo) | The greatest VSCode theme ever!
 
-📃 My blog: [coelhomarcus.com/blog](https://coelhomarcus.com/blog) (PT-BR)
+📃 My blog: [coelhomarcus.com/blog](https://coelhomarcus.com/blog) `(PT-BR)`
 
 **Others**
 
