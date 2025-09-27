@@ -9,7 +9,7 @@
 
 ### **Works**
 
-🩺 **PET-SAÚDE / I&SD: Inovação e Saúde Digital no SUS** (Jul 2025 - Present)
+🩺 **PET-SAÚDE: Inovação e Saúde Digital no SUS** (Jul 2025 - Present)
 <br/>
 🦎 **Exception Jr** (Jul 2024 - Present): Empresa Junior UNIFESSPA, atuo como Desenvolvedor Full Stack<br/>
 
