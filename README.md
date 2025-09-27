@@ -47,16 +47,11 @@
 
 <p>
 <img alt="macOS" src="https://img.shields.io/badge/-macOS-333?style=plastic&logo=apple&logoColor=white" />
-<img alt="vscode" src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=plastic&logo=visual-studio-code&logoColor=white" />
-<img alt="Insomnia" src="https://img.shields.io/badge/-Insomnia-4000BF?style=plastic&logo=insomnia&logoColor=white" />
-<img alt="Vercel" src="https://img.shields.io/badge/-Vercel-000000?style=plastic&logo=vercel&logoColor=white" />
+<img alt="Neovim" src="https://img.shields.io/badge/-Neovim-333?style=plastic&logo=neovim&logoColor=57A143" />
+<img alt="Zed" src="https://img.shields.io/badge/-Zed-333?style=plastic&logo=zedindustries&logoColor=white" />
 <img alt="Figma" src="https://img.shields.io/badge/-Figma-F24E1E?style=plastic&logo=figma&logoColor=white" />
 <img alt="Raycast" src="https://img.shields.io/badge/-Raycast-FF6363?style=plastic&logo=raycast&logoColor=white" />
-<img alt="Todoist" src="https://img.shields.io/badge/-Todoist-E44332?style=plastic&logo=todoist&logoColor=white" />
-<img alt="Notion" src="https://img.shields.io/badge/-Notion-000000?style=plastic&logo=notion&logoColor=white" />
-<img alt="FileZilla" src="https://img.shields.io/badge/-FileZilla-BF0000?style=plastic&logo=filezilla&logoColor=white" />
-<img alt="unity" src="https://img.shields.io/badge/Unity-000000?style=plastic&logo=unity&logoColor=white" />
-<img alt="godot" src="https://img.shields.io/badge/Godot-478CBF?style=plastic&logo=godot-engine&logoColor=white" />
+<img alt="Unity" src="https://img.shields.io/badge/Unity-000000?style=plastic&logo=unity&logoColor=white" />
 </p>
 
 </details>
