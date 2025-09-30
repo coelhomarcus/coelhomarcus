@@ -33,7 +33,7 @@
 ### **Learning**
 <p>
   <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=plastic&logo=java&logoColor=white"/>
-  <img alt="Go" src="https://img.shields.io/badge/-Go-00ADD8?style=plastic&logo=go&logoColor=white" />
+  <img alt="Spring Boot" src="https://img.shields.io/badge/-Spring_Boot-6DB33F?style=plastic&logo=spring&logoColor=white" />
 </p>
 
 #
@@ -47,6 +47,11 @@
 🖼️ [BakaNeo](https://marketplace.visualstudio.com/items?itemName=coelhomarcus.bakaneo) | The greatest VSCode theme ever!
 
 📃 My blog: [coelhomarcus.com/blog](https://coelhomarcus.com/blog) `(PT-BR)`
+
+**Lang em Stand by**
+<p>
+<img alt="Go" src="https://img.shields.io/badge/-Go-00ADD8?style=plastic&logo=go&logoColor=white" />
+</p>
 
 **Others**
 
