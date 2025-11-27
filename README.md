@@ -29,12 +29,6 @@
 <img alt="SQLite" src="https://img.shields.io/badge/-SQLite-003B57?style=plastic&logo=sqlite&logoColor=white" />
 </p>
 
-### **Learning**
-<p>
-  <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=plastic&logo=java&logoColor=white"/>
-  <img alt="Spring Boot" src="https://img.shields.io/badge/-Spring_Boot-6DB33F?style=plastic&logo=spring&logoColor=white" />
-</p>
-
 #
 
 <details>
