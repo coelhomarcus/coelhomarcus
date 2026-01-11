@@ -13,6 +13,8 @@
 🦎 **Exception Jr** (Jul 2024 - Present) | Full Stack Developer
 <br/>
 
+### **Skills**
+
 ![Skills](https://skillicons.dev/icons?i=ts,react,vite,next,tailwind,nodejs,express,postgres,bun,elysia)
 
 #
