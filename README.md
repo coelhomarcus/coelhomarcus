@@ -13,21 +13,7 @@
 🦎 **Exception Jr** (Jul 2024 - Present) | Full Stack Developer
 <br/>
 
-### **Skills**
-
-<p>
-<img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=plastic&logo=react&logoColor=white" />
-<img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-dba740?style=plastic&logo=javascript&logoColor=white" />
-<img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=plastic&logo=typescript&logoColor=white" />
-<img alt="TailwindCSS" src="https://img.shields.io/badge/-Tailwind-50B3D0?style=plastic&logo=tailwindcss&logoColor=white" />
-<img alt="next.js" src="https://img.shields.io/badge/-Next.js-000000?style=plastic&logo=next.js&logoColor=white" />
-<img alt="Vite" src="https://img.shields.io/badge/-Vite-81A3F9?style=plastic&logo=vite&logoColor=white" />
-<img alt="NodeJS" src="https://img.shields.io/badge/-NodeJS-43853d?style=plastic&logo=Node.js&logoColor=white" />
-<img alt="Express" src="https://img.shields.io/badge/-Express-13aa52?style=plastic&logo=express&logoColor=white" />
-<img alt="PostgreSQL" src="https://img.shields.io/badge/-PostgreSQL-336791?style=plastic&logo=postgresql&logoColor=white" />
-<img alt="MySQL" src="https://img.shields.io/badge/-MySQL-4479A1?style=plastic&logo=mysql&logoColor=white" />
-<img alt="SQLite" src="https://img.shields.io/badge/-SQLite-003B57?style=plastic&logo=sqlite&logoColor=white" />
-</p>
+![https://skillicons.dev/icons?i=ts,react,vite,next,tailwind,nodejs,express,postgres,bun,elysia]
 
 #
 
