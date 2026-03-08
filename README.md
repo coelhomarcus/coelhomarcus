@@ -1,29 +1,31 @@
 ### **Marcus Coelho**
 
 📃 <a href="https://marcuscoelho.com">marcuscoelho.com</a><br/>
-🏫 Sistemas de Informação | 7/8 | UNIFESSPA<br/>
+🏫 _Sistemas de Informação | 7/8 | UNIFESSPA_<br/>
 📫 marcusrangelcoelho@gmail.com<br/>
 📋 <a href="https://docs.google.com/document/d/1wgOhwh-1YT-LRog9j1tvxzBVKfraoSzps1AiBGuSx9A/export?format=pdf" download>Curriculum (PT-BR)</a><br/>
 <br/>
 
 ### **Works**
 
-🩺 **PET-SAÚDE: Inovação e Saúde Digital no SUS** (Jul 2025 - Present) | Developer
+🩺 **PET-SAÚDE: Inovação e Saúde Digital no SUS** | _Jul 2025 - Present_ | **_Full Stack Developer_**
 <br/>
-🦎 **Exception Jr** (Jul 2024 - Present) | Full Stack Developer
+🤖 **LOGIBOT: Plataforma de Auxilio no Ensino de Lógica de Programação** | _Jul 2025 - Present_ | **_Developer_**
+<br/>
+🦎 **Exception Jr** | _Jul 2024 - Present_ | **_Full Stack Developer_**
 <br/>
 
 ### **Skills**
 
-#### Languages
+#### _Languages_
 
 ![LANG](https://skillicons.dev/icons?i=html,css,js,ts)
 
-#### Frameworks, Libs, Run-times
+#### _Frameworks, Libs, Run-times_
 
 ![FLR](https://skillicons.dev/icons?i=react,vite,next,tailwind,nodejs,express,bun,elysia)
 
-#### Databases
+#### _Databases_
 
 ![DB](https://skillicons.dev/icons?i=postgres)
 
