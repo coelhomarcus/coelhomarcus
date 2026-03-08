@@ -12,7 +12,7 @@
 <br/>
 🤖 **LOGIBOT: Plataforma de Auxilio no Ensino de Lógica de Programação** | _Jul 2025 - Present_ | **_Developer_**
 <br/>
-🦎 **Exception Jr** | _Jul 2024 - Present_ | **_Full Stack Developer_**
+🦎 **Exception Jr** | _07/2024 - 01/2026_ | **_Full Stack Developer_**
 <br/>
 
 ### **Skills**
