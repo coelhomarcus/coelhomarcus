@@ -15,7 +15,17 @@
 
 ### **Skills**
 
-![Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,vite,next,tailwind,nodejs,express,postgres,bun,elysia)
+#### Languages
+
+![LANG](https://skillicons.dev/icons?i=html,css,js,ts)
+
+#### Frameworks, Libs, Run-times
+
+![FLR](https://skillicons.dev/icons?i=react,vite,next,tailwind,nodejs,express,bun,elysia)
+
+#### Databases
+
+![DB](https://skillicons.dev/icons?i=postgres)
 
 #
 
@@ -27,24 +37,17 @@
 
 📃 My blog: [marcuscoelho.com/blog](https://marcuscoelho.com/blog) `(PT-BR)`
 
-**Lang em Stand by**
-<p>
-<img alt="Go" src="https://img.shields.io/badge/-Go-00ADD8?style=plastic&logo=go&logoColor=white" />
-</p>
+**Interesses**
 
-**Others**
+![FLR](https://skillicons.dev/icons?i=go)
+
+**Outros**
 
 <p>
+<a href="https://coelhomarcus.com"><img alt="Profile Views" src="https://komarev.com/ghpvc/?username=coelhomarcus&color=blue&style=plastic"/></a>
 <img alt="macOS" src="https://img.shields.io/badge/-macOS-333?style=plastic&logo=apple&logoColor=white" />
-<img alt="Neovim" src="https://img.shields.io/badge/-Neovim-333?style=plastic&logo=neovim&logoColor=57A143" />
-<img alt="Zed" src="https://img.shields.io/badge/-Zed-333?style=plastic&logo=zedindustries&logoColor=white" />
 <img alt="Figma" src="https://img.shields.io/badge/-Figma-F24E1E?style=plastic&logo=figma&logoColor=white" />
-<img alt="Raycast" src="https://img.shields.io/badge/-Raycast-FF6363?style=plastic&logo=raycast&logoColor=white" />
 <img alt="Unity" src="https://img.shields.io/badge/Unity-000000?style=plastic&logo=unity&logoColor=white" />
 </p>
 
 </details>
-
-#
-
-<a href="https://coelhomarcus.com"><img alt="Profile Views" src="https://komarev.com/ghpvc/?username=coelhomarcus&color=grey&style=plastic"/></a>
