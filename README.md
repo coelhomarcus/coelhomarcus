@@ -15,7 +15,7 @@
 
 ### **Skills**
 
-![Skills](https://skillicons.dev/icons?i=ts,react,vite,next,tailwind,nodejs,express,postgres,bun,elysia)
+![Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,vite,next,tailwind,nodejs,express,postgres,bun,elysia)
 
 #
 
