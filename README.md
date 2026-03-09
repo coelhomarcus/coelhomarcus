@@ -8,11 +8,11 @@
 
 ### **Works**
 
-🩺 **PET-SAÚDE: Inovação e Saúde Digital no SUS** | _Jul 2025 - Present_ | **_Full Stack Developer_**
+🩺 **PET-SAÚDE: Inovação e Saúde Digital no SUS** | _Full Stack Developer_ | _07/2025 - Present_
 <br/>
-🤖 **LOGIBOT: Plataforma de Auxilio no Ensino de Lógica de Programação** | _Jul 2025 - Present_ | **_Developer_**
+🤖 **LOGIBOT: Plataforma de Auxilio no Ensino de Lógica de Programação** | _Developer_ | _07/2025 - Present_
 <br/>
-🦎 **Exception Jr** | _07/2024 - 01/2026_ | **_Full Stack Developer_**
+🦎 **Exception Jr** | _Full Stack Developer_ | _07/2024 - 01/2026_
 <br/>
 
 ### **Skills**
