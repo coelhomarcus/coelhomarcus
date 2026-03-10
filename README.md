@@ -27,7 +27,7 @@
 
 #### _Databases_
 
-![DB](https://skillicons.dev/icons?i=postgres)
+![DB](https://skillicons.dev/icons?i=postgres,sqlite)
 
 #
 
