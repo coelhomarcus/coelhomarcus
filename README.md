@@ -4,7 +4,6 @@
 🏫 _Sistemas de Informação | 8/8 | UNIFESSPA_<br/>
 📫 marcusrangelcoelho@gmail.com<br/>
 📋 <a href="https://docs.google.com/document/d/1wgOhwh-1YT-LRog9j1tvxzBVKfraoSzps1AiBGuSx9A/export?format=pdf" download>Curriculum (PT-BR)</a><br/>
-<br/>
 
 ### **Works**
 
@@ -24,10 +23,6 @@
 🖼️ [BakaNeo](https://marketplace.visualstudio.com/items?itemName=coelhomarcus.bakaneo) | The greatest VSCode theme ever!
 
 📃 My blog: [marcuscoelho.com/blog](https://marcuscoelho.com/blog) `(PT-BR)`
-
-**Interesses**
-
-![FLR](https://skillicons.dev/icons?i=go)
 
 **Outros**
 
