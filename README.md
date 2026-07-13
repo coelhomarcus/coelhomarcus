@@ -15,20 +15,6 @@
 🦎 **Exception Jr** | _Full Stack Developer_ | _07/2024 - 01/2026_
 <br/>
 
-### **Skills**
-
-#### _Languages_
-
-![LANG](https://skillicons.dev/icons?i=html,css,js,ts)
-
-#### _Frameworks, Libs, Run-times_
-
-![FLR](https://skillicons.dev/icons?i=react,vite,next,tailwind,nodejs,express,bun,elysia)
-
-#### _Databases_
-
-![DB](https://skillicons.dev/icons?i=postgres,sqlite)
-
 #
 
 <details>
