@@ -24,13 +24,8 @@
 
 📃 My blog: [marcuscoelho.com/blog](https://marcuscoelho.com/blog) `(PT-BR)`
 
-**Outros**
-
 <p>
 <a href="https://coelhomarcus.com"><img alt="Profile Views" src="https://komarev.com/ghpvc/?username=coelhomarcus&color=blue&style=plastic"/></a>
-<img alt="macOS" src="https://img.shields.io/badge/-macOS-333?style=plastic&logo=apple&logoColor=white" />
-<img alt="Figma" src="https://img.shields.io/badge/-Figma-F24E1E?style=plastic&logo=figma&logoColor=white" />
-<img alt="Unity" src="https://img.shields.io/badge/Unity-000000?style=plastic&logo=unity&logoColor=white" />
 </p>
 
 </details>
