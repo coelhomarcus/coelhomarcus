@@ -1,9 +1,7 @@
 ### **Marcus Coelho**
 
 📃 <a href="https://marcuscoelho.com">marcuscoelho.com</a><br/>
-🏫 _Sistemas de Informação | 8/8 | UNIFESSPA_<br/>
 📫 marcusrangelcoelho@gmail.com<br/>
-📋 <a href="https://docs.google.com/document/d/1wgOhwh-1YT-LRog9j1tvxzBVKfraoSzps1AiBGuSx9A/export?format=pdf" download>Curriculum (PT-BR)</a><br/>
 
 ### **Works**
 
