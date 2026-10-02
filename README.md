@@ -5,13 +5,21 @@
 
 ### **Works**
 
-🧮 **CS-Consoft** | _Front-end Developer_ | _10/2026 - Atual_ (Estágio)
-<br/>
-🩺 **PET-SAÚDE: Inovação e Saúde Digital no SUS** | _Front-end Developer_ | _07/2025 - 10/2026_ (Estágio)
-<br/>
-🤖 **LOGIBOT: Plataforma de Auxilio no Ensino de Lógica de Programação** | _Full Stack Developer_ | _07/2025 - 09/2026_ (Pesquisa)
-<br/>
-🦎 **Exception Jr** | _Full Stack Developer_ | _07/2024 - 01/2026_ (Estágio)
+#### 🧮 CS-Consoft (Estágio)
+-  _Front-end Developer_
+- _10/2026 - Atual_ 
+
+#### 🩺 PET-SAÚDE: Inovação e Saúde Digital no SUS (Estágio)
+- _Front-end Developer_
+- _07/2025 - 10/2026_ 
+
+#### 🤖 LOGIBOT: Plataforma de Auxilio no Ensino de Lógica de Programação (Pesquisa)
+- _Full Stack Developer_
+- _07/2025 - 09/2026_ 
+
+#### 🦎 Exception Jr (Estágio)
+- _Full Stack Developer_
+- _07/2024 - 01/2026_ 
 <br/>
 
 #
