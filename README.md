@@ -13,5 +13,3 @@
 <br/>
 🦎 **Exception Jr** | _Full Stack Developer_ | _07/2024 - 01/2026_ (Estágio)
 <br/>
-
-#
